@@ -1,10 +1,10 @@
 # Dragon
 A Code editor for multiple languages
 
-Supported languages:
+### Supported languages:
 VB and HTML
 
-Soon to be added:
+### Soon to be added:
 C#, Java Script, Lua, PHP, SQL and XML.
 
 Warning:
